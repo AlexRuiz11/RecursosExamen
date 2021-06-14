@@ -32,8 +32,13 @@ public class MainCambiarVentana extends Application {
 	
 	public static void main(String[] args) {
 		launch(args);
+	
 	}
 }
-	
+
+
+
+//--module-path "C:\Users\vspc\Downloads\javafx-sdk-16\lib" --add-modules=javafx.controls,javafx.fxml
+
 
 
